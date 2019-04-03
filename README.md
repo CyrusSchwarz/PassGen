@@ -7,4 +7,5 @@ A password manager like dashlane or lastpass is recommended. If you can somehow 
 
 TODO: 
 
-Add write to file function. 
+Add write to file function
+Handle exceptions
